@@ -36,6 +36,17 @@ Note: The application uses the `tkinter` library for the graphical user interfac
    ```
    The application window will appear with a welcome page. Click the "Start" button to proceed to the main page.
 
+2. Main Page:
+
+    Enter the account number, name, and initial balance in the respective fields.
+    Click the "Create Account" button to create a new account with the entered information.
+    Click the "View Account" button and enter an account number to view the account details.
+    Click the "Deposit" button and enter an account number and an amount to deposit money into the account.
+    Click the "Withdraw" button and enter an account number and an amount to withdraw money from the account.
+    Click the "Delete Account" button and enter an account number to delete the account.
+    Click the "View All Accounts" button to view all the accounts' details in a new window.
+    Click the "Exit" button to close the application.
+
 ## Author
 
 - Soham Vaity CO- Batch 3
